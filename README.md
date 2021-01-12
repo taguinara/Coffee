@@ -1,3 +1,3 @@
-## Tea ☕
+## Coffee ☕
 
-![Alt Text](https://github.com/taguinara/tea/blob/main/tea.gif)
+![Alt Text](https://github.com/taguinara/Coffee/blob/main/coffee.gif)
